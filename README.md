@@ -1,5 +1,9 @@
-# vizitka-2023
+# Repozitář VIZITKA
 
-Šablona projektu pro cvičení práce s Gitem.
+První repozitář v GitHubu
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+Postupujte podle zadání [web](pumpkinahunter.github.io/vizitka/)
+
+## Ukázka výsledku
+
+![web](haha.jpg)
